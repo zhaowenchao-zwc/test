@@ -1,2 +1,2 @@
-# test
-测试、
+# Nubit-Light-Node
+Nubit Incentivized Testnet
